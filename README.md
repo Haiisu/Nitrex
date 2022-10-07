@@ -24,4 +24,4 @@ python get-pip.py
 
 ## 💜
 
-Reminder, this program is not a real discord nitro generator, it is not used to generate discord nitro codes. It was intended as a joke and can also be used to hide malware. 
+Reminder, this program is not a real discord nitro generator, it is useless. It was designed as a joke and can also be used to hide malware. 
